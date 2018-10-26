@@ -1,3 +1,3 @@
 # Battery-Switching-Parallel-Robot
 
-![alt text](poster.pdf)
+![alt text](poster.png)
